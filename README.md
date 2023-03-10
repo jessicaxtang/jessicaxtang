@@ -2,7 +2,7 @@
 
 I'm a first year engineering science student at the University of Toronto passionate about technology, especially artificial intelligence and robotics.
 
-Check out the projects I have posted on my page-- more to come!
+Check out the projects I have posted on my page-- more to come! ⚡
 
 <!--
 **jessicaxtang/jessicaxtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
