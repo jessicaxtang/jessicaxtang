@@ -1,4 +1,4 @@
-### Hi there 👋###
+### Hi there 👋
 
 I'm a first year engineering science student at the University of Toronto passionate about technology, especially artificial intelligence and robotics.
 
