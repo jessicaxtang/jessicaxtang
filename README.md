@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a first year engineering science student at the University of Toronto passionate about technology, especially artificial intelligence and robotics.
+I'm a first year engineering science student at the University of Toronto passionate about technology, especially the cross section of machine learning and cognitive neuroscience.
 
 Check out the projects I have posted on my page-- more to come! ⚡
 
