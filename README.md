@@ -1,9 +1,10 @@
-### hi! 👋
+### hi there 🐋
 
-- 👜 i'm a second-year engineering science student at the University of Toronto 
-- 🔭 passionate about AI, especially the cross-section of machine learning and cognitive neuroscience
-- 🌱 currently learning react & django
-- 🤔 curious about LLMs and reinforcement learning
+- 🍀 i'm a second-year engineering science student at the University of Toronto 
+- 🪐 passionate about AI, especially the cross-section of machine learning and cognitive neuroscience
+- 🪵 currently building 3 websites
+- 🌱 learning react & django
+- 💫 curious about LLMs and reinforcement learning
 
 Check out the projects I have posted on my page-- more to come! ⚡
 
