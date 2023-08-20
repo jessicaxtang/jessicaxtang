@@ -6,7 +6,7 @@
 - 🌱 learning react & django
 - 💫 curious about LLMs and reinforcement learning
 
-Check out the projects I have posted on my page-- more to come! ⚡
+check out the projects I have posted on my page-- more to come! ⚡
 
 <!--
 **jessicaxtang/jessicaxtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
