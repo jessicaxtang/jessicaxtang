@@ -1,9 +1,9 @@
 ### hi there 🐋
 
 - 🍀 i'm a second-year engineering science student at the University of Toronto 
-- 🪐 passionate about machine learning and cognitive neuroscience
+- 🪐 passionate about machine learning in cognitive neuroscience
 - 🪵 currently building 3 ML projects
-- 💫 curious about LLMs and reinforcement learning
+- 💫 curious about representation learning and reinforcement learning
 
 check out the projects I have posted on my page-- more to come! ⚡
 
