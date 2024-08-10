@@ -1,8 +1,8 @@
-### hi i'm jess
+### hi i'm jess 🍂
 
-- 🔭 engineering science student at the University of Toronto specializing in *machine intelligence*
-- 💫 curious about deep learning in self-driving cars, cognitive neuroscience, healthcare, and explainability
-- 👯 most repos are private-- will make available when i get around to cleaning them up 🌱
+- engineering science student at the University of Toronto specializing in machine intelligence
+- curious about deep learning in self-driving cars, cognitive neuroscience, healthcare, and explainability
+- most repos are private-- will make available when i get around to cleaning them up 
 
 <!--
 **jessicaxtang/jessicaxtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
