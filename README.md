@@ -1,7 +1,7 @@
 ### hi i'm jess 🍂
 
 - engineering science student at the University of Toronto specializing in machine intelligence
-- curious about deep learning in self-driving cars, cognitive neuroscience, healthcare, and explainability
+- curious about AI alignment, interpretability, cognitive neuroscience, philosophy, and music
 - most repos are private-- will make available when i get around to cleaning them up 
 
 <!--
