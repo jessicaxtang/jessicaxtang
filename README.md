@@ -1,8 +1,8 @@
 ### hi i'm jess 🍂
 
 - engineering science student at the University of Toronto specializing in machine intelligence
-- curious about AI alignment, interpretability, cognitive neuroscience, philosophy, and music
-- most repos are private-- will make available when i get around to cleaning them up 
+- research interests are AI alignment, interpretability, and safety!
+- curious about philosophy, passionate about music
 
 <!--
 **jessicaxtang/jessicaxtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
