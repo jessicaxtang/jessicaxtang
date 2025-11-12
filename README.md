@@ -4,4 +4,4 @@
 - research interests are AI alignment, interpretability, and safety!
 - curious about philosophy, passionate about music
 
-Read more on my [website](https://jessicaxtang.github.io/)!
+Read more on my [website](https://jessicaxtang.github.io/) !
